@@ -1,4 +1,4 @@
-#!/bin/python3
+#原子間距離が記載されている.datファイルとクラスタリング.datファイルを参照するはず
 import os
 import numpy as np
 import argparse
